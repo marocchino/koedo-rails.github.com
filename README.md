@@ -16,3 +16,4 @@
 * @7korobi
 * @kojifurukawa
 
+##### ticketの使い方を話しました
